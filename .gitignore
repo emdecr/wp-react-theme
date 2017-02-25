@@ -1,0 +1,11 @@
+.htaccess
+.DS_Store
+.sass-cache/
+robots.txt
+node_modules/
+
+# Wordpress specific
+wordpress/*
+wordpress/
+wp-config.php
+uploads/
