@@ -9,3 +9,7 @@ wordpress/*
 wordpress/
 wp-config.php
 uploads/
+
+# Example Theme
+a-wp-react-redux-theme/*
+a-wp-react-redux-theme/
