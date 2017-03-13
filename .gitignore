@@ -1,0 +1,15 @@
+.htaccess
+.DS_Store
+.sass-cache/
+robots.txt
+node_modules/
+
+# Wordpress specific
+wordpress/*
+wordpress/
+wp-config.php
+uploads/
+
+# Example Theme
+a-wp-react-redux-theme/*
+a-wp-react-redux-theme/
